@@ -1,0 +1,101 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lass AI Systems - Emergency Website Rescue</title>
+  <meta name="description" content="Lass AI Systems provides 24-hour emergency website rescue services for businesses. Fixing websites, boosting calls — fast.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7fafc;
+    }
+
+    .container {
+      max-width: 760px;
+      margin: 30px auto;
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 6px 22px rgba(12,12,20,.06);
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+      color: #1E293B;
+    }
+
+    p {
+      color: #334155;
+      line-height: 1.6;
+    }
+
+    .offer {
+      border: 1px solid #0EA5A4;
+      padding: 14px;
+      margin: 16px 0;
+      border-radius: 8px;
+    }
+
+    .cta {
+      display: inline-block;
+      padding: 12px 18px;
+      border-radius: 8px;
+      background: #0EA5A4;
+      color: #ffffff;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    ul {
+      margin: 8px 0 12px 18px;
+      color: #334155;
+    }
+
+    .footer {
+      font-size: 12px;
+      color: #475569;
+      margin-top: 16px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Lass AI Systems</h1>
+
+    <p>
+      Emergency Website Rescue — Fix your website in 24 hours and stop losing customers, calls, or sales today.
+    </p>
+
+    <div class="offer">
+      <strong>What You Get in 24 Hours — $1,200 Flat</strong>
+      <ul>
+        <li>Full website backup</li>
+        <li>Fix slow loading & speed optimization</li>
+        <li>Fix mobile layout & responsiveness</li>
+        <li>Repair or replace key call-to-action buttons</li>
+        <li>Repair broken contact, booking, or lead forms</li>
+        <li>Add high-converting hero section</li>
+        <li>Add one emergency landing page</li>
+        <li>Install Google Analytics / tracking</li>
+        <li>Before/after report + 2-minute video walkthrough</li>
+        <li>1 revision included</li>
+      </ul>
+    </div>
+
+    <a class="cta" href="PAYMENT_LINK_HERE">Book Your 24-Hour Rescue</a>
+
+    <div class="footer">
+      <p>Payment required to start. Limited slots per day.</p>
+      <p>Email: coll@lassaisystems.com</p>
+    </div>
+  </div>
+</body>
+</html>
